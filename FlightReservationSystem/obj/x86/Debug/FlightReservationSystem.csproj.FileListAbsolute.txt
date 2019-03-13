@@ -1,0 +1,13 @@
+C:\Work\CSHARP_WK\FlightReservationSystem\bin\Debug\FlightReservationSystem.exe
+C:\Work\CSHARP_WK\FlightReservationSystem\bin\Debug\FlightReservationSystem.pdb
+C:\Work\CSHARP_WK\FlightReservationSystem\obj\x86\Debug\FlightReservationSystem.Airport.AirportAddGUI.resources
+C:\Work\CSHARP_WK\FlightReservationSystem\obj\x86\Debug\FlightReservationSystem.Airport.AirportMainGUI.resources
+C:\Work\CSHARP_WK\FlightReservationSystem\obj\x86\Debug\FlightReservationSystem.mainGUI.resources
+C:\Work\CSHARP_WK\FlightReservationSystem\obj\x86\Debug\FlightReservationSystem.Properties.Resources.resources
+C:\Work\CSHARP_WK\FlightReservationSystem\obj\x86\Debug\FlightReservationSystem.csproj.GenerateResource.Cache
+C:\Work\CSHARP_WK\FlightReservationSystem\obj\x86\Debug\FlightReservationSystem.exe
+C:\Work\CSHARP_WK\FlightReservationSystem\obj\x86\Debug\FlightReservationSystem.pdb
+C:\Work\CSHARP_WK\FlightReservationSystem\bin\Debug\Oracle.DataAccess.dll
+C:\Work\CSHARP_WK\FlightReservationSystem\obj\x86\Debug\FlightReservationSystem.csprojResolveAssemblyReference.cache
+C:\Work\CSHARP_WK\FlightReservationSystem\obj\x86\Debug\FlightReservationSystem.Excp.ExceptionGUI.resources
+C:\Work\CSHARP_WK\FlightReservationSystem\obj\x86\Debug\FlightReservationSystem.Airport.AirportUpdateGUI.resources
